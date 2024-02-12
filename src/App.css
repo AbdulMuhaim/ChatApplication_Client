@@ -1,0 +1,4 @@
+.input-with-custom-placeholder input::placeholder {
+    color: green;  
+  }
+  
